@@ -1,3 +1,14 @@
+## Landing Page
+![Screenshot 2022-01-31 at 10 54 45 AM](https://user-images.githubusercontent.com/62135514/151743348-927e653e-6bf2-445a-a238-b499ac3c72c7.png)
+
+## Side Bar
+![Screenshot 2022-01-31 at 10 55 14 AM](https://user-images.githubusercontent.com/62135514/151743454-cd8f9fb7-1a9c-4795-b957-ca52b9996986.png)
+
+
+## Mobile View
+![Screenshot 2022-01-31 at 10 56 10 AM](https://user-images.githubusercontent.com/62135514/151743434-a142fb18-af99-4694-a6c2-8c99126ff073.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
